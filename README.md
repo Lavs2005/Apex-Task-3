@@ -50,4 +50,16 @@ A colorful, responsive web page featuring:
 ## 🌐 Live Demo
 
 You can view the live project here:  
-[Live Demo]()
+[Live Demo](https://lavs2005.github.io/Apex-Task-3/)
+
+## 📷 Screenshots
+
+### Quiz Section
+![Quiz Screenshot](./screenshots/img1.png)
+
+### API Joke Section
+![Joke Screenshot](./screenshots/img2.png)
+
+### Full Page Layout
+![Full Page Screenshot](./screenshots/img3.png)
+
